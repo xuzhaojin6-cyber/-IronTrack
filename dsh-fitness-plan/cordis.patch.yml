@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-fitness-plan
+      name: '@local/dsh-fitness-plan'
